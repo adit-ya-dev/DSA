@@ -1,6 +1,7 @@
 "Count primes less than n."
 
 class Solution:
+    
     def countPrimes(self, n: int) -> int:
         if n <= 2:
             return 0
