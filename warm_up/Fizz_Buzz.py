@@ -1,5 +1,6 @@
 "For numbers from 1 to n:
 
+
 Multiple of 3 → "Fizz"
 Multiple of 5 → "Buzz"
 Both → "FizzBuzz""
