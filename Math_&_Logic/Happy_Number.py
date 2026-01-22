@@ -1,6 +1,7 @@
 "A number is happy if repeatedly replacing it with the sum of squares of its digits eventually becomes 1.
 If it loops forever, it's not happy.
 
+
 Example:
 
 Input: n = 19 → Output: true
