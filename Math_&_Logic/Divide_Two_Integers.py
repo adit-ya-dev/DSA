@@ -1,5 +1,6 @@
 "Divide without using * / %. Clamp result to 32-bit range."
 
+
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
         # Determine the sign of the result
