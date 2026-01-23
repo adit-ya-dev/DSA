@@ -2,7 +2,6 @@
 Cannot modify array, O(1) space.
 "
 
-
 class Solution:
     def findDuplicate(self, nums):
         slow = nums[0]
