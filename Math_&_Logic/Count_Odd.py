@@ -1,7 +1,5 @@
 "Given two non-negative integers low and high, return the count of odd numbers between them (inclusive).
 
-
-
  Example:
 
 Input: low = 3, high = 7 → Output: 3
