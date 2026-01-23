@@ -1,6 +1,7 @@
 "Return array where ans[i] = product of all nums except nums[i]
 No division, O(n)."
 
+
 class Solution:
     def productExceptSelf(self, nums):
         n = len(nums)
