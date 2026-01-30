@@ -1,6 +1,7 @@
 "Input: [1,8,6,2,5,4,8,3,7]
 Output: 49"
 
+
 def maxArea(height):
     l, r = 0, len(height) - 1
     best = 0
