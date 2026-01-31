@@ -1,8 +1,8 @@
 "A number is happy if repeatedly replacing it with the sum of squares of its digits eventually becomes 1.
 If it loops forever, it's not happy.
 
-Example:
 
+Example:
 Input: n = 19 → Output: true
 Because: 1²+9² = 82 → 8²+2² = 68 → 6²+8² = 100 → 1²+0²+0² = 1" 
 

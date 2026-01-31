@@ -1,6 +1,7 @@
 "Input: ["eat","tea","tan","ate","nat","bat"]
 Output: [["eat","tea","ate"],["tan","nat"],["bat"]]"
 
+
 from collections import defaultdict
 
 def groupAnagrams(strs):

@@ -2,6 +2,7 @@
 Output: 3
 Explanation: "abc" is the longest substring without repeating."
 
+
 def lengthOfLongestSubstring(s):
     seen = set()
     l = 0

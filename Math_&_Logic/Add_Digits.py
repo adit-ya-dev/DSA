@@ -1,5 +1,7 @@
 "Given an integer num, repeatedly add its digits until the result has only one digit.
 
+
+
  Example:
 
 Input: num = 38 → Output: 2

@@ -1,5 +1,6 @@
 "Given an array nums, return the element that appears more than n/2 times.
 
+
 Example:
 
 nums = [3,2,3] → Output: 3"
